@@ -1,8 +1,9 @@
 # useful-tools-for-students
-A collaborative list by -Faith Achieng
-                        -Priscilla Mumbi
-                        -Gloria
-                        -Tony
+A collaborative list by
+-Faith Achieng
+-Priscilla Mumbi
+-Gloria
+-Tony
                         
 ## Table of Contents
  - [canva](#canva)
