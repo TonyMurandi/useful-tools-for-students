@@ -29,7 +29,7 @@ Each section is written by a different team member.
 <!-- [Priscilla will write this section -->
 
 
-## Canva
+## Canva - Faith
 <!-- [Odiwuor Faith Achieng] --->
 
 Canva is a free design tool that simplifies work that saves time and levels the academic performance of every student or professional
