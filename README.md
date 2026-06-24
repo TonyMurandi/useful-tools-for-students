@@ -1,10 +1,38 @@
 # useful-tools-for-students
+A collaborative list by -Faith Achieng
+                        -Priscilla Mumbi
+                        -Gloria
+                        Tony
+                        
 ## Table of Contents
  - [canva](#canva)
-   
+ - [Gemini](#Gemini)
+ - [ChatGPT](ChatGPT)
+ - [VSCode](#VSCode)
+
+
+## Introduction
+This guide covers tools that every student should know about.
+Each section is written by a different team member.
+
+## VS Code
+<!-- [Tony] will write this section -->
+
+## Gemini
+<!-- [Gloria] will write this section -->
+
+## Canva
+<!-- [Faith] will write this section -->
+
+## ChatGPT
+<!-- [Priscilla will write this section -->
+
+
 ## Canva
 <!-- [Odiwuor Faith Achieng] --->
+
 Canva is a free design tool that simplifies work that saves time and levels the academic performance of every student or professional
+
 ### why students should use it
 there are **3 major pillars of canva:**that indicates why students should use it.
 1. use "professional templates" for class slides and research posters
@@ -23,13 +51,13 @@ there are **3 major pillars of canva:**that indicates why students should use it
    [magic design direct tool](canva.com)
    
 # Gemini AI for Student - Gloria
+<!-- [Gloria Mumbi] -->
 
 ## Overview
 
 Gemini is an Artificial Intelligence (AI) tool developed by Google Gemini that helps students learn, research, create content, solve problems and improve productivity. It can understand and generate text, analyze information, assist with coding and provide educational support across various subjects.
 
 ## Uses of Gemini for Students
-
 ### 1. Research Assistance
 
 * Summarizes large amounts of information.
@@ -112,6 +140,7 @@ Students studying computer science, engineering and technology can use Gemini to
 Gemini is a powerful AI tool that can support students in research, learning, writing, programming and project development. When used responsibly, it can improve productivity, enhance understanding and contribute to academic success.
 
 # ChatGPT for Students - Priscilla
+<!-- [Priscilla] -->
 
 ## Overview
 
@@ -216,7 +245,26 @@ By supporting learning and revision, ChatGPT can help students strengthen their 
 
 ChatGPT is a powerful AI assistant that supports students in learning, research, writing, programming, exam preparation and project development. When used responsibly, it can enhance productivity, improve understanding and contribute to academic success.
 
+## VS Code - Tony
+<!-- [Tony] -->
 
+**Visual Studio Code** (VS Code) is a free code editor made by Microsoft.
+It is one of the most popular editors for programming.
+
+### Why Students Should Use It
+- It works on Windows, Mac, and Linux.
+- It supports almost every programming language.
+- It has a built-in terminal so you can run commands without leaving the editor.
+- Thousands of extensions add extra features like themes, linters, and AI assistance.
+
+### How to Get Started
+1. Download it from [code.visualstudio.com](https://code.visualstudio.com/).
+2. Install the recommended extensions for your programming language.
+3. Open a folder and start coding.
+
+### Useful Links
+- [VS Code Documentation](https://code.visualstudio.com/docs)
+- [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 
 
