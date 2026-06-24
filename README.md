@@ -2,7 +2,7 @@
 A collaborative list by -Faith Achieng
                         -Priscilla Mumbi
                         -Gloria
-                        Tony
+                        -Tony
                         
 ## Table of Contents
  - [canva](#canva)
