@@ -265,4 +265,4 @@ It is one of the most popular editors for programming.
 
 ### Useful Links
 - [VS Code Documentation](https://code.visualstudio.com/docs)
-- [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks).
+- [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
