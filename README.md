@@ -35,7 +35,7 @@ Each section is written by a different team member.
 Canva is a free design tool that simplifies work that saves time and levels the academic performance of every student or professional
 
 ### why students should use it
-there are **3 major pillars of canva:**that indicates why students should use it.
+there are **3 major pillars of canva:** that indicates why students should use it.
 1. use "professional templates" for class slides and research posters
 2. "streamlining and collaboration" where team members can tag peers and leave comments by using in-app communication directly on canvas.
 3. "magic Studio AI tools" where magic write and magic edit helps brainstorm during presentation outlines and blog posts.
